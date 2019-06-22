@@ -1,6 +1,6 @@
 {
   "name": "wallhaven-api.js",
-  "version": "0.2.14",
+  "version": "0.2.16",
   "description": "simple wallhaven.cc api wrapper for js",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
