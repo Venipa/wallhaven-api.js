@@ -1,3 +1,16 @@
-export * from './lib/async';
-export * from './lib/hash';
-export * from './lib/number';
+export {
+  Wallhaven,
+  Category,
+  FileType,
+  Meta,
+  Purity,
+  SearchFileType,
+  SearchPurity,
+  SearchQuery,
+  SearchSortTypes,
+  SearchTagType,
+  SearchWallpaper,
+  SortRange,
+  Thumbs,
+  WallpaperPagination
+} from './requests';
